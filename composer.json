@@ -1,5 +1,5 @@
 {
-    "name": "damienharper/auditor-bundle",
+    "name": "samuel4x4/auditor-bundle",
     "type": "symfony-bundle",
     "description": "Integrate auditor library in your Symfony projects.",
     "keywords": ["doctrine", "audit", "auditor", "audit-log", "audit-trail"],
